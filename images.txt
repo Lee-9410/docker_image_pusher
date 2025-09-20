@@ -2,4 +2,10 @@ nginx
 #支持私库
 redis:alpine
 ankane/pgvector
+mysql
+redis
+etcd
+postgre
+kafka
+rabbitmq
 #支持指定架构
